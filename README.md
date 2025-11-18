@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahir Siam</h1>
+<h1 align="center">Hi 👋, I'm Mahir Siam Muhin</h1>
 <h3 align="center">MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
@@ -20,29 +20,29 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahirSiam&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiam&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirsiam2004&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsiam2004&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahirSiam&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=mahirsiam2004&theme=tokyonight" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahirSiam&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsiam2004&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahirSiam&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahirsiam2004&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
@@ -98,8 +98,8 @@
 
 # 📫 Connect With Me
 <p align="center">
-<a href="https://www.facebook.com/mahir.siam.486245/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mahir-siam-muhin-8725682b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/mahirsiam2004"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
