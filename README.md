@@ -5,7 +5,7 @@
 <h3 align="center">MERN Stack Developer | C++ Problem Solver | Full-Stack Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&width=700&lines=Building+Modern+Web+Apps;Solving+Algorithms+(CF+1027);Learning+New+Tech+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C2FF&center=true&width=700&lines=Building+Modern+Web+Apps;Solving+Algorithms+(CF+1027);Learning+New+Tech+Every+Day" alt="Typing SVG"/>
 </p>
 
 ---
