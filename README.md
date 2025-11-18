@@ -20,6 +20,13 @@ Currently:
 - Learning **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi)  
 - Open to **freelancing opportunities**
 
+🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/mahirsiam2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahirsiam2004/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/M_FOR_MAHIR" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+
+</p>
 ---
 
 ## 📊 GitHub Stats & Current Streak
