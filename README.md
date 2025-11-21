@@ -10,29 +10,48 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a MERN stack developer and C++ problem solver, bringing ideas to life through code and interactive applications.  
+## 🚀 About Me
 
-Currently:  
-- Building **modern web applications** like **GreenNest** and **Altrion**  
-- Practicing **competitive programming** on **Codeforces** (Rating: 1027)  
-- Exploring **new tech** like Firebase, Tailwind, MongoDB  
-- Learning **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi)  
-- Open to **freelancing opportunities**
+I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing creative ideas to life through robust code and interactive applications.
 
-🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/mahirsiam2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahirsiam2004/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/M_FOR_MAHIR" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+* **Current Focus:** Building full-stack applications, currently including **GreenNest** (eco-platform) and **Altrion** (professional MERN platform).
+* **Competitive Programming:** Actively practicing and solving algorithms on **Codeforces** (Rating: 1027).
+* **Learning & Exploring:** Deep diving into new technologies like **Firebase**, **Tailwind CSS**, and modern **MongoDB** practices.
+* **Beyond Web:** Exploring **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi) to bridge the digital and physical worlds.
+* **Open for Business:** Available for **freelancing opportunities** and collaboration.
 
-</p>
 ---
 
-## 📊 GitHub Stats & Current Streak
+## 🔗 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirsiam2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsiam2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+  <a href="https://github.com/mahirsiam2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahirsiam2004/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/M_FOR_MAHIR" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+I work primarily with the MERN stack, complemented by C++ for problem-solving:
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,git,github,bootstrap,tailwind,firebase,mongodb" />
+</p>
+
+---
+
+## 📊 Development Insights
+
+Showcasing my commitment to continuous coding:
+
+<p align="center">
+  <a href="https://wakatime.com/@ed27c026-a044-4335-bedd-7f4c2198a539"><img src="https://wakatime.com/badge/user/ed27c026-a044-4335-bedd-7f4c2198a539.svg" alt="Total time coded since Aug 10 2025" /></a>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirsiam2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=00C2FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsiam2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&icon_color=00C2FF" height="150"/>
 </p>
 
 <p align="center">
@@ -41,28 +60,17 @@ Currently:
 
 ---
 
-## ⏱️ WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mahirsiam2004&theme=tokyonight&hide_border=true" height="140"/>
-</p>
+## 📈 Activity & Contributions
 
----
-
-## 🔹 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsiam2004&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0D1117" height="120"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,git,github,bootstrap,tailwind,firebase,mongodb" />
-</p>
+## ✨ Featured Projects
 
----
-
-## 🌟 Featured Projects
+A selection of my best work demonstrating full-stack capabilities and modern design.
 
 <table align="center">
   <tr>
@@ -71,10 +79,9 @@ Currently:
     <th>Tech Stack</th>
     <th>Live Preview</th>
   </tr>
-
   <tr>
     <td><strong>GreenNest</strong></td>
-    <td>A modern eco–friendly platform built with clean UI and smooth frontend experience.</td>
+    <td>A modern eco–friendly platform focused on clean UI and a smooth frontend user experience.</td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,tailwind" />
     </td>
@@ -84,10 +91,9 @@ Currently:
       </a>
     </td>
   </tr>
-
   <tr>
     <td><strong>Altrion Platform</strong></td>
-    <td>A professional full MERN platform with elegant UI and powerful backend logic.</td>
+    <td>A professional full MERN stack platform featuring elegant UI and robust backend business logic.</td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
     </td>
@@ -97,5 +103,4 @@ Currently:
       </a>
     </td>
   </tr>
-
 </table>
