@@ -104,3 +104,18 @@ A selection of my best work demonstrating full-stack capabilities and modern des
     </td>
   </tr>
 </table>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mahirsiam2004" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height:60px;width:220px;" />
+  </a>
+</p>
+
+<p align="center">
+  If you like my projects or content, you can support me by buying a coffee! Your support helps me keep building amazing web apps, solving problems, and learning new technologies. 💻🚀
+</p>
+
