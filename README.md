@@ -37,7 +37,7 @@ I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringi
 I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,git,github,bootstrap,tailwind,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,git,github,bootstrap,tailwind,firebase,mongodb" />
 </p>
 
 ---
