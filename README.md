@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing creative ideas to life through robust code and interactive applications.
 
@@ -22,7 +22,7 @@ I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringi
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://github.com/mahirsiam2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -42,7 +42,7 @@ I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
 ---
 
-## 📊 Development Insights
+##  Development Insights
 
 Showcasing my commitment to continuous coding:
 
