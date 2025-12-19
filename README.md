@@ -32,7 +32,7 @@ I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringi
 
 ---
 
-## ⚙️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
@@ -60,7 +60,7 @@ Showcasing my commitment to continuous coding:
 
 ---
 
-## 📈 Activity & Contributions
+##  Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsiam2004&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0D1117" height="120"/>
