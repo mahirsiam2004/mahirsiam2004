@@ -32,7 +32,7 @@ I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringi
 
 ---
 
-##  Tech Stack & Tools
+##  Tech Stack & Tool's
 
 I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
