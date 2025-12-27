@@ -10,19 +10,19 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing creative ideas to life through robust code and interactive applications.
+I'm a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing creative ideas to life through robust code and interactive applications.
 
-* **Current Focus:** Building full-stack applications, currently including **GreenNest** (eco-platform) and **Altrion** (professional MERN platform).
+* **Current Focus:** Building full-stack applications, currently including **Lumora** (event decoration platform), **GreenNest** (eco-platform), and **Altrion** (professional MERN platform).
 * **Competitive Programming:** Actively practicing and solving algorithms on **Codeforces** (Rating: 1027).
-* **Learning & Exploring:** Deep diving into new technologies like **Firebase**, **Tailwind CSS**, and modern **MongoDB** practices.
+* **Learning & Exploring:** Deep diving into new technologies like **Firebase**, **Tailwind CSS**, **Stripe Payment Integration**, and modern **MongoDB** practices.
 * **Beyond Web:** Exploring **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi) to bridge the digital and physical worlds.
 * **Open for Business:** Available for **freelancing opportunities** and collaboration.
 
 ---
 
-##  Connect with Me
+## 📱 Connect with Me
 
 <p align="center">
   <a href="https://github.com/mahirsiam2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -32,7 +32,7 @@ I’m a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringi
 
 ---
 
-##  Tech Stack & Tool's
+## 💻 Tech Stack & Tool's
 
 I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
@@ -42,7 +42,7 @@ I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
 ---
 
-##  Development Insights
+## 📊 Development Insights
 
 Showcasing my commitment to continuous coding:
 
@@ -60,7 +60,7 @@ Showcasing my commitment to continuous coding:
 
 ---
 
-##  Activity & Contributions
+## 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsiam2004&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0D1117" height="120"/>
@@ -78,6 +78,18 @@ A selection of my best work demonstrating full-stack capabilities and modern des
     <th>Description</th>
     <th>Tech Stack</th>
     <th>Live Preview</th>
+  </tr>
+  <tr>
+    <td><strong>Lumora</strong></td>
+    <td>A full-stack event decoration booking platform with Stripe payment integration, role-based access control, and real-time booking management.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+    </td>
+    <td>
+      <a href="https://your-lumora-url.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td><strong>GreenNest</strong></td>
@@ -107,6 +119,18 @@ A selection of my best work demonstrating full-stack capabilities and modern des
 
 ---
 
+## 🎯 Key Features Across Projects
+
+- **Authentication & Authorization:** JWT-based secure login with role management (Admin, Decorator, User)
+- **Payment Integration:** Stripe checkout with real-time payment verification
+- **Real-time Updates:** Dynamic booking status tracking and notifications
+- **Responsive Design:** Mobile-first approach using Tailwind CSS
+- **RESTful APIs:** Well-structured backend with Express.js and MongoDB
+- **Admin Dashboards:** Complete analytics and management systems
+- **Modern UI/UX:** Clean interfaces with smooth animations and interactions
+
+---
+
 ## ☕ Support Me
 
 <p align="center">
@@ -119,3 +143,8 @@ A selection of my best work demonstrating full-stack capabilities and modern des
   If you like my projects or content, you can support me by buying a coffee! Your support helps me keep building amazing web apps, solving problems, and learning new technologies. 💻🚀
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahirsiam2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
