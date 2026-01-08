@@ -86,7 +86,7 @@ A selection of my best work demonstrating full-stack capabilities and modern des
       <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
     </td>
     <td>
-      <a href="https://your-lumora-url.vercel.app/" target="_blank">
+      <a href="https://lumora-client-cku9.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
