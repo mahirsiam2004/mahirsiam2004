@@ -145,6 +145,3 @@ A selection of my best work demonstrating full-stack capabilities and modern des
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahirsiam2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
