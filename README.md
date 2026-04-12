@@ -50,8 +50,8 @@ Showcasing my commitment to continuous coding:
   <a href="https://wakatime.com/@ed27c026-a044-4335-bedd-7f4c2198a539"><img src="https://wakatime.com/badge/user/ed27c026-a044-4335-bedd-7f4c2198a539.svg" alt="Total time coded since Aug 10 2025" /></a>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirsiam2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=00C2FF" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsiam2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&icon_color=00C2FF" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=mahirsiam2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=00C2FF" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahirsiam2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&icon_color=00C2FF" height="150"/>
 </p>
 
 <p align="center">
