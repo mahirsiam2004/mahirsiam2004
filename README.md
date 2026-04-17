@@ -14,7 +14,7 @@
 
 I'm a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing creative ideas to life through robust code and interactive applications.
 
-* **Current Focus:** Building full-stack applications, currently including **Lumora** (event decoration platform), **GreenNest** (eco-platform), and **Altrion** (professional MERN platform).
+* **Current Focus:** Building full-stack applications, currently including **Fake Gamers** (E-commerce), **Lumora** (event decoration platform), and **Altrion** (professional MERN platform).
 * **Competitive Programming:** Actively practicing and solving algorithms on **Codeforces** (Rating: 1027).
 * **Learning & Exploring:** Deep diving into new technologies like **Firebase**, **Tailwind CSS**, **Stripe Payment Integration**, and modern **MongoDB** practices.
 * **Beyond Web:** Exploring **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi) to bridge the digital and physical worlds.
@@ -80,6 +80,18 @@ A selection of my best work demonstrating full-stack capabilities and modern des
     <th>Live Preview</th>
   </tr>
   <tr>
+    <td><strong>Fake Gamers</strong></td>
+    <td>A high-end e-commerce platform for gamers featuring secure Stripe payments, Firebase authentication, and a dynamic product management system.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,firebase" />
+    </td>
+    <td>
+      <a href="https://fake-gamers-client.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>Lumora</strong></td>
     <td>A full-stack event decoration booking platform with Stripe payment integration, role-based access control, and real-time booking management.</td>
     <td>
@@ -121,13 +133,12 @@ A selection of my best work demonstrating full-stack capabilities and modern des
 
 ## 🎯 Key Features Across Projects
 
-- **Authentication & Authorization:** JWT-based secure login with role management (Admin, Decorator, User)
-- **Payment Integration:** Stripe checkout with real-time payment verification
-- **Real-time Updates:** Dynamic booking status tracking and notifications
-- **Responsive Design:** Mobile-first approach using Tailwind CSS
-- **RESTful APIs:** Well-structured backend with Express.js and MongoDB
-- **Admin Dashboards:** Complete analytics and management systems
-- **Modern UI/UX:** Clean interfaces with smooth animations and interactions
+- **Authentication & Authorization:** JWT and Firebase-based secure login with role management.
+- **Payment Integration:** Stripe checkout with real-time payment verification.
+- **Real-time Updates:** Dynamic booking and order status tracking.
+- **Responsive Design:** Mobile-first approach using Tailwind CSS.
+- **RESTful APIs:** Well-structured backend with Express.js and MongoDB.
+- **Modern UI/UX:** Clean interfaces with smooth animations and interactions.
 
 ---
 
@@ -144,4 +155,3 @@ A selection of my best work demonstrating full-stack capabilities and modern des
 </p>
 
 ---
-
