@@ -16,7 +16,7 @@ I'm a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing
 
 * **Current Focus:** Building full-stack applications, currently including **Fake Gamers** (E-commerce), **Lumora** (event decoration platform), and **Altrion** (professional MERN platform).
 * **Competitive Programming:** Actively practicing and solving algorithms on **Codeforces** (Rating: 1027).
-* **Learning & Exploring:** Deep diving into new technologies like **Firebase**, **Tailwind CSS**, **Stripe Payment Integration**, and modern **MongoDB** practices.
+* **Learning & Exploring:** Deep diving into new technologies like **Docker**, **Firebase**, **Tailwind CSS**, **Stripe Payment Integration**, and modern **MongoDB** practices.
 * **Beyond Web:** Exploring **hardware & embedded systems** (Arduino, ESP32, Raspberry Pi) to bridge the digital and physical worlds.
 * **Open for Business:** Available for **freelancing opportunities** and collaboration.
 
@@ -37,7 +37,7 @@ I'm a **MERN Stack Developer** and **C++ Problem Solver**, dedicated to bringing
 I work primarily with the MERN stack, complemented by C++ for problem-solving:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,git,github,bootstrap,tailwind,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,docker,firebase,tailwind,bootstrap,git,github" />
 </p>
 
 ---
@@ -117,9 +117,9 @@ A selection of my best work demonstrating full-stack capabilities and modern des
   </tr>
   <tr>
     <td><strong>Altrion Platform</strong></td>
-    <td>A professional full MERN stack platform featuring elegant UI and robust backend business logic.</td>
+    <td>A professional full MERN stack platform featuring containerized deployment, elegant UI, and robust backend business logic.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,tailwind" />
     </td>
     <td>
       <a href="https://altrion-platform.netlify.app/" target="_blank">
@@ -135,6 +135,7 @@ A selection of my best work demonstrating full-stack capabilities and modern des
 
 - **Authentication & Authorization:** JWT and Firebase-based secure login with role management.
 - **Payment Integration:** Stripe checkout with real-time payment verification.
+- **Containerization & DevOps:** Standardized development and production environments using Docker.
 - **Real-time Updates:** Dynamic booking and order status tracking.
 - **Responsive Design:** Mobile-first approach using Tailwind CSS.
 - **RESTful APIs:** Well-structured backend with Express.js and MongoDB.
