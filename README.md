@@ -79,6 +79,8 @@ const mahir = {
 <tr><td><b>Databases</b></td><td>
 
 <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Mongoose-161b22?style=flat-square&logo=mongoose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 
@@ -104,9 +106,6 @@ const mahir = {
 
 </td></tr>
 </table>
-
-<br/>
-
 ## Development Insights
 
 <p align="center">
