@@ -188,7 +188,7 @@ const mahir = {
         <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED"/>
       </p>
       <p align="center">
-        <a href="https://altrion-platform.netlify.app/" target="_blank">
+        <a href="https://altrion-client.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Preview-161b22?style=flat-square&logo=netlify&logoColor=00C7B7" />
         </a>
       </p>
